@@ -1,0 +1,7 @@
+index
+info
+site
+config
+robots.txt
+intranet
+admin
