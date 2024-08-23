@@ -1,5 +1,7 @@
 index
 images
+web.config
+php.info
 download
 2006
 news
