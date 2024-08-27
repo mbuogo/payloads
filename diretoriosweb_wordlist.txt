@@ -5,6 +5,7 @@ images
 web.config
 php.info
 download
+site-bal
 2006
 news
 crack
