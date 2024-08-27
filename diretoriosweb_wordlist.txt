@@ -1,4 +1,6 @@
 index
+000~ROOT~000
+home/000~ROOT~000
 images
 web.config
 php.info
