@@ -103,6 +103,7 @@ adm/login
 06
 07
 08
+wp-json/wp/v2/users
 09
 1
 10
