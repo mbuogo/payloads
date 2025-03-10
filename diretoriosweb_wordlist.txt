@@ -1,5 +1,6 @@
 .bash_history
 .bashrc
+db.zip
 .cache
 .config
 .cvs
