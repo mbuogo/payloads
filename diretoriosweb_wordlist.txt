@@ -18175,6 +18175,8 @@ $searchForm
 30648
 30649
 3065
+jasperserver/reportresource/reportresource/?resource=net/sf/jasperreports/../../../aws.properties
+jasperserver/reportresource/reportresource/?resource=net/sf/jasperreports/../../../../js.config.properties
 30650
 30651
 30652
