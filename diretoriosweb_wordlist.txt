@@ -11,6 +11,9 @@ $2006
 $Body
 $FILE
 $File
+config.js
+config.prod.js
+controller.config.js
 $VisitURL
 $e1_gif
 $file
