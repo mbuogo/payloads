@@ -1,3 +1,12 @@
+service-worker.js
+sw.js
+ws.js
+app.js
+main.js
+ngsw-worker.js
+firebase-messaging-sw.js
+static/service-worker.js
+_next/static/sw.js
 !
 !.gitignore
 !.htaccess
