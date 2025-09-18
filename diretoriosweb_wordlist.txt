@@ -4,6 +4,7 @@
 %3f/
 %ff/
 .7z
+arquivo.zip
 .access
 .addressbook
 .adm
