@@ -3,7 +3,10 @@ backup-old
 backup1
 backup2
 backup.tar
+RI
 backup.zip
+DOC
+doc
 backup.tgz
 db-backup
 dbdump
